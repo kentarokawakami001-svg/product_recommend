@@ -135,9 +135,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+
 .envrc
-.venv
+.venv/
 env/
 venv/
 ENV/
@@ -329,7 +329,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+
 .venv
 env/
 venv/
@@ -371,6 +371,12 @@ cython_debug/
 # original
 .chroma/
 .venv/
-.env
+
 __pycache__/
 .DS_Store
+# エディタ等
+.vscode/
+.idea/
+# Streamlit secrets（もし使うなら）
+.streamlit/secrets.toml
+.env
