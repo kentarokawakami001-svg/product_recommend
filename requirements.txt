@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+pandas
+requests
+pillow
+sudachipy
+sudachidict-core
+
