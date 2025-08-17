@@ -380,3 +380,24 @@ __pycache__/
 # Streamlit secrets（もし使うなら）
 .streamlit/secrets.toml
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# 機密情報
+.env
+
+# エディタ/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
