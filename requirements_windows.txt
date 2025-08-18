@@ -147,3 +147,9 @@ zstandard==0.23.0
 
 sudachipy
 sudachidict-core
+streamlit
+openai
+python-dotenv
+pandas
+requests
+pillow
